@@ -1,1 +1,10 @@
-# snowpark-blog-20210810
+# snowpark example
+
+blog: TODO
+
+## Run
+
+```bash
+$ sbt run
+```
+
